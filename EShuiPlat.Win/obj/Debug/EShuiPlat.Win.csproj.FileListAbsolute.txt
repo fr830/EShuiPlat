@@ -1,0 +1,8 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\bin\Debug\EShuiPlat.Win.exe.config
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\bin\Debug\EShuiPlat.Win.exe
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\bin\Debug\EShuiPlat.Win.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\obj\Debug\EShuiPlat.Win.Properties.Resources.resources
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\obj\Debug\EShuiPlat.Win.csproj.GenerateResource.Cache
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\obj\Debug\EShuiPlat.Win.exe
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\obj\Debug\EShuiPlat.Win.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Win\obj\Debug\EShuiPlat.Win.csprojResolveAssemblyReference.cache
