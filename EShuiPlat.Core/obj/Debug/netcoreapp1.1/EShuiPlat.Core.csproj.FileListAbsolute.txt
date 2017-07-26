@@ -1,0 +1,7 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\bin\Debug\netcoreapp1.1\EShuiPlat.Core.deps.json
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\bin\Debug\netcoreapp1.1\EShuiPlat.Core.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\bin\Debug\netcoreapp1.1\EShuiPlat.Core.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\obj\Debug\netcoreapp1.1\EShuiPlat.Core.AssemblyInfo.cs
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\obj\Debug\netcoreapp1.1\EShuiPlat.Core.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\obj\Debug\netcoreapp1.1\EShuiPlat.Core.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Core\obj\Debug\netcoreapp1.1\EShuiPlat.Core.csprojResolveAssemblyReference.cache
