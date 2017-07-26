@@ -1,0 +1,11 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.deps.json
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\obj\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.csprojResolveAssemblyReference.cache
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\obj\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.AssemblyInfo.cs
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.Core.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.Entity.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.Entity.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\bin\Debug\netcoreapp1.1\EShuiPlat.Core.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\obj\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.EntityFrameWork\obj\Debug\netcoreapp1.1\EShuiPlat.EntityFrameWork.pdb
