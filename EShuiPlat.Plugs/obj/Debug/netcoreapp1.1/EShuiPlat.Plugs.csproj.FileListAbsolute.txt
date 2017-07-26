@@ -1,0 +1,11 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Plugs.deps.json
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Plugs.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Plugs.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Core.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Entity.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Core.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\bin\Debug\netcoreapp1.1\EShuiPlat.Entity.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\obj\Debug\netcoreapp1.1\EShuiPlat.Plugs.csprojResolveAssemblyReference.cache
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\obj\Debug\netcoreapp1.1\EShuiPlat.Plugs.AssemblyInfo.cs
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\obj\Debug\netcoreapp1.1\EShuiPlat.Plugs.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.Plugs\obj\Debug\netcoreapp1.1\EShuiPlat.Plugs.pdb

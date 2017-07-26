@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="EventsParams\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EShuiPlat.Core\EShuiPlat.Core.csproj" />
+    <ProjectReference Include="..\EShuiPlat.Entity\EShuiPlat.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

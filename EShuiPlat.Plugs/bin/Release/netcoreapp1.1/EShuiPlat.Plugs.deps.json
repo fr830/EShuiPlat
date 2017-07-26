@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "eshuiplat.plugs/1.0.0": {
+        "dependencies": {
+          "EShuiPlat.Core": "1.0.0",
+          "EShuiPlat.Entity": "1.0.0"
+        },
+        "runtime": {
+          "EShuiPlat.Plugs.dll": {}
+        }
+      },
+      "eshuiplat.core/1.0.0": {
+        "runtime": {
+          "EShuiPlat.Core.dll": {}
+        }
+      },
+      "eshuiplat.entity/1.0.0": {
+        "dependencies": {
+          "EShuiPlat.Core": "1.0.0"
+        },
+        "runtime": {
+          "EShuiPlat.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eshuiplat.plugs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eshuiplat.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eshuiplat.entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
