@@ -1,0 +1,9 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\bin\Debug\netcoreapp1.1\EShuiPlat.DBHelper.deps.json
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\bin\Debug\netcoreapp1.1\EShuiPlat.DBHelper.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\obj\Debug\netcoreapp1.1\EShuiPlat.DBHelper.AssemblyInfo.cs
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\obj\Debug\netcoreapp1.1\EShuiPlat.DBHelper.csprojResolveAssemblyReference.cache
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\bin\Debug\netcoreapp1.1\EShuiPlat.DBHelper.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\bin\Debug\netcoreapp1.1\EShuiPlat.Core.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\bin\Debug\netcoreapp1.1\EShuiPlat.Core.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\obj\Debug\netcoreapp1.1\EShuiPlat.DBHelper.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.DBHelper\obj\Debug\netcoreapp1.1\EShuiPlat.DBHelper.pdb
