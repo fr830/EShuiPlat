@@ -1,0 +1,7 @@
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\bin\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.deps.json
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\bin\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\obj\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.AssemblyInfo.cs
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\bin\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\obj\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.dll
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\obj\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.pdb
+D:\sourcecode\WorkDoc\EShuiPlat\EShuiPlat.ＭiddleWares\obj\Debug\netcoreapp1.1\EShuiPlat.ＭiddleWares.csprojResolveAssemblyReference.cache
